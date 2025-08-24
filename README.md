@@ -95,17 +95,5 @@ In `ParkingCounter.py`:
 
 ---
 
-## 📝 Steps We Followed (for your presentation)
-1. Installed Python packages: `opencv-python`, `numpy`, `cvzone`
-2. Collected a parking video or used a webcam
-3. Saved one reference frame as `carParkImg.png`
-4. Marked each parking spot with `SelectParkingSpaces.py`
-5. Implemented the CV pipeline and counting logic in `ParkingCounter.py`
-6. Tuned the occupancy threshold and box sizes
-7. Added a graceful exit (`q`) and UI counters
-8. (Optional) Switched to webcam by toggling `USE_WEBCAM`
-
----
-
 ## 📄 License
 MIT License — see `LICENSE`.
