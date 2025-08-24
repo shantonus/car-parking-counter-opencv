@@ -43,7 +43,7 @@ pip install -r requirements.txt
 ```
 
 2) **Prepare a reference image**
-- If using a **video**, then make sure you have the video file named **carPark.mp4**:
+- If using a **video** then make sure you have the video file named **carPark.mp4**:
   ```bash
   python save_frame_from_video.py
   ```
